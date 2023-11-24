@@ -2,6 +2,7 @@
 public class GitMain {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld!!");
+		// 로그인 기능 추가 완료
 	}
 	
 	public void join() {
